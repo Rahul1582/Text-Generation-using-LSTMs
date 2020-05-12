@@ -1,4 +1,4 @@
-# Poem-Generation-using-LSTMs
+# New Headlines Generator
 
 A keras implementation of Bidirectional-LSTM for generating news headlines..
 
