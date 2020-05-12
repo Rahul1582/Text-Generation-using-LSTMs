@@ -1,6 +1,6 @@
-# Text-Generation-using-LSTMs
+# Poem-Generation-using-LSTMs
 
-Consists some projects on keras implementation of Bidirectional-LSTM for generating text.
+A keras implementation of Bidirectional-LSTM for generating text of Shakespeare Poems..
 
 
 ### Technologies Used
